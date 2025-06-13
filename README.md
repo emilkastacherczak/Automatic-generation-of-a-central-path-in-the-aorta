@@ -1,2 +1,1 @@
-# Aortic-segmentation-with-central-path
-Aortic segmentation with automatic generation of the central path
+# Automatic-generation-of-a-central-path-in-the-aorta
